@@ -1,12 +1,6 @@
 Google Places API for iOS Sample: Address Form Autocomplete
 ==========================================================
 
-This sample goes hand in hand with a tutorial for the Google Places API for iOS:
-[Address Form Autocomplete](https://developers.google.com/places/ios-api/address-form-tutorial).
-Follow the tutorial for a quick guide to using the API.
+This App will save the contact comping from Google API and save it into other view and you can Edit any field you want 
 
-License
--------
-
-Please refer to the [LICENSE](https://github.com/googlemaps/maps-sdk-for-ios-samples/blob/master/LICENSE.txt) 
-at the root of this repo.
+Created by : Ali Al-Bahrani
